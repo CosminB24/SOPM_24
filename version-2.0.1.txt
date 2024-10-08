@@ -1,0 +1,6 @@
+2.0.1
+
+Bug Fixes
+
+Nu se salvează Dark / Light Theme-ul, e mereu Dark - fixed
+
