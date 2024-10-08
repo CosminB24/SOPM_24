@@ -1,0 +1,7 @@
+2.0.0
+
+Log Update
+
+Preluarea serialelor și filmelor de pe alte platforme de Streaming
+Refacerea interfeței de utilizator
+Adăugarea serverelor în mai multe regiuni pentru o viteză mai mare
