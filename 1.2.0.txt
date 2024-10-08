@@ -1,0 +1,8 @@
+1.2.0
+
+Log Update
+
+Adăugat un buton pentru a trece la următorul episod;
+Adăugat un buton pentru a skip la intro;
+Adăugată funcție de a te întreba dacă încă te uiți după 3 episoade;
+Adăugată o funcție care să te întrebe dacă vrei să reiei episodul de unde ai rămas sau dacă iei de la început
